@@ -11,6 +11,7 @@ By Kaiming He, Jian Sun, and Xiaoou Tang
 
 PDF for paper: https://projectsweb.cs.washington.edu/research/insects/CVPR2009/award/hazeremv_drkchnl.pdf
 
+![Screenshot 2023-12-11 185143](https://github.com/dpatel698/Image-Dehazer/assets/27567883/076b4d14-4680-41d5-a5f1-9ae8a2f03e1e)
 
 
 
